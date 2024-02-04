@@ -1,0 +1,7 @@
+/* Header Section Start */
+@media only screen and (max-width: 992px) {
+  .header .flex-space-between {
+    flex-direction: column;
+  }
+}
+/* Header Section Ends */
